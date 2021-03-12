@@ -1,0 +1,17 @@
+{
+    "login": {
+        "email":"ep@gmail.com",
+        "password":"test1234",
+        "homePage": "https://gradebook.vivifyideas.com/gradebooks"
+    },
+    "createProfessor": {
+        "firstName": "Edi1234",
+        "lastName": "Pinter333",
+        "imageUrl": "https://images-cdn.9gag.com/photo/aR7vewM_700b.jpg",
+        "value": 2262,
+        "fullName": "Edi1234 Pinter333"
+    },
+    "gradebook": {
+        "title": "Novi gradebook"
+    }
+}
